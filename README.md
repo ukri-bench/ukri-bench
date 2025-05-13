@@ -15,9 +15,8 @@ UKRI Living Benchmarks is in a development phase.
 ### Application benchmarks
 
 #### Released
--
 
-#### Under development
+#### Development
 
 - [DOLFINx](https://github.com/ukri-bench/benchmark-dolfinx) (finite
   element method)
@@ -36,13 +35,10 @@ UKRI Living Benchmarks is in a development phase.
 ### Synthetic benchmarks
 
 #### Released
--
 
-#### Under development
--
+#### Development
 
 #### Planned
--
 
 ## Proposing a benchmark
 
