@@ -42,7 +42,13 @@ The suite includes application and synthetic benchmarks.
 
 #### Under development
 
+- OSU micro-benchmark suite (OMB)
+- pydgemm
+
 #### Planned
+
+- IO500
+
 
 ## Proposing a benchmark
 
