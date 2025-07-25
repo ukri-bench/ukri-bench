@@ -12,6 +12,8 @@ UKRI Living Benchmarks is in a development phase.
 
 ## Background
 
+-
+
 ## Benchmarks
 
 The suite includes application and synthetic benchmarks.
@@ -19,6 +21,8 @@ The suite includes application and synthetic benchmarks.
 ### Application benchmarks
 
 #### Released
+
+-
 
 #### Under development
 
@@ -39,6 +43,8 @@ The suite includes application and synthetic benchmarks.
 ### Synthetic benchmarks
 
 #### Released
+
+-
 
 #### Under development
 
