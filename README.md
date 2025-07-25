@@ -28,7 +28,7 @@ The suite includes application and synthetic benchmarks.
   ocean and climate solver)
 - [Quantum
   ESPRESSO](https://github.com/ukri-bench/benchmark-quantumespresso)
-  (electronic-structur calculations and materials modelling)
+  (electronic-structure calculations and materials modelling)
 
 #### Planned
 
